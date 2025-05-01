@@ -67,7 +67,7 @@ Criamos e configuramos o banco de dados SQL que servirá como nossa fonte de dad
 </p>
 
 <p style="text-align:center;">
-  <img src="./assets/img/03_criacao_do_banco_sql_parte2.PNG" alt="Configuração de segurança e adicionais do Banco de Dados SQL Azure - Parte 2" width="80%">
+  <img src="./assets/img/03_criacao_do_banco_sql_parte2.jpg" alt="Configuração de segurança e adicionais do Banco de Dados SQL Azure - Parte 2" width="80%">
 </p>
 
 ### 3. Provisionamento da Conta de Armazenamento (Storage Account) 📦
@@ -75,7 +75,7 @@ Criamos e configuramos o banco de dados SQL que servirá como nossa fonte de dad
 Configuramos a Conta de Armazenamento com Data Lake Storage Gen2 habilitado, definindo opções de redundância e segurança. Este será o nosso destino.
 
 <p style="text-align:center;">
-  <img src="./assets/img/04_storage_account_criado_parte1.PNG" alt="Configuração básica e avançada da Conta de Armazenamento Azure" width="100%">
+  <img src="./assets/img/04_storage_account_criado_parte1.jpg" alt="Configuração básica e avançada da Conta de Armazenamento Azure" width="100%">
 </p>
 
 <p style="text-align:center;">
@@ -95,7 +95,7 @@ Organizamos nosso Data Lake criando contêineres (pastas) como `bronze`, `prata`
 Utilizamos o `AutoResolveIntegrationRuntime` padrão do Azure para conectividade na nuvem.
 
 <p style="text-align:center;">
-  <img src="./assets/img/07_criacao_integration_runtime.PNG" alt="Tela de configuração do Integration Runtime padrão" width="100%">
+  <img src="./assets/img/07_criacao_integration_runtime.jpg" alt="Tela de configuração do Integration Runtime padrão" width="100%">
 </p>
 
 ### 6. Configuração dos Linked Services 🔗
